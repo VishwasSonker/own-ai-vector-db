@@ -139,8 +139,6 @@ own-ai-vector-db/
 │   ├── demo.mp4
 │   └── architecture.png
 │
-├── docs/
-│
 ├── .gitignore
 ├── LICENSE
 └── README.md
