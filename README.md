@@ -50,7 +50,9 @@ An AI-powered semantic search engine and custom Vector Database built in C++ fea
 
 ## Project Interface
 
-assets/project interface.png
+## 📸 Project Interface
+
+![Project Interface](assets/project%20interface.png)
 
 ---
 
