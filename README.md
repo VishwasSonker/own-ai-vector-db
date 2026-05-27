@@ -48,27 +48,33 @@ An AI-powered semantic search engine and custom Vector Database built in C++ fea
 
 ## 📸 Screenshots
 
+## Project Interface
+
+![project UI](/assets/project interface.png)
+
+---
+
 ## Search Visualization
 
-![Search UI](assets/screenshots/search-ui.png)
+![Search UI](/assets/search.png)
 
 ---
 
 ## RAG Chat Interface
 
-![RAG Chat](assets/screenshots/rag-chat.png)
+![RAG Chat](/assets/rag.png)
 
 ---
 
 ## Benchmark Dashboard
 
-![Benchmark](assets/screenshots/benchmark.png)
+![Benchmark](/assets/benchmark.png)
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Documents
 
-![Architecture](assets/architecture.png)
+![Documents](/assets/documents.png)
 
 ### Project Flow
 
@@ -242,15 +248,6 @@ This project was built to explore:
 
 ---
 
-## 📹 Demo
-
-Demo video available in:
-
-```text
-assets/demo.mp4
-```
-
----
 ## ⭐ If You Like This Project
 
 Give this repository a star and feel free to contribute or suggest improvements.
